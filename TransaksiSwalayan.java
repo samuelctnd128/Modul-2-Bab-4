@@ -121,7 +121,7 @@ public class TransaksiSwalayan {
 
     public static void main(String[] args) {
         // Database dari para pelanggan yang terdiri dari nomor pelanggan, nama pelanggan, saldo, dan PIN
-        databasePelanggan.put("3898626566", new Pelanggan("3898626566", "Paijo", 5000, "1864"));
+        databasePelanggan.put("3898626566", new Pelanggan("3898626566", "Paijo", 500000, "1864"));
         databasePelanggan.put("5615186974", new Pelanggan("5615186974", "Eddie", 1250000, "3681"));
         databasePelanggan.put("7472498219", new Pelanggan("7472498219", "Kirby", 2200000, "7438"));
 
